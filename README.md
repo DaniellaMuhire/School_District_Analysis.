@@ -6,7 +6,7 @@ We analyze data on students' funding and students' standardized test scores. Our
 
 In this project, we also check for any academic dishonesty by replacing the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact.
 ## Resources
-- Data Source: [Students_Complete](Resources/students_complete)
+- Data Source: [Students_Complete](Resources/students_complete.csv)
 ## Results
 - How is the district summary affected?
 <img width="1015" alt="District Summary" src="https://user-images.githubusercontent.com/77806210/194192008-7bc60ab9-7d01-40b0-a657-1a224a9252b9.png">
