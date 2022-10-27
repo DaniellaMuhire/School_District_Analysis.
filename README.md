@@ -5,8 +5,11 @@ In this project, we prepare all standaredized test data for analysis, reporting,
 We analyze data on students' funding and students' standardized test scores. Our task is to aggregate the data and showcase trends in school performance. 
 
 In this project, we also check for any academic dishonesty by replacing the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact.
+
 ## Resources
 - Data Source: [Students_Complete](Resources/students_complete.csv)
+- Software: Jupyter Notebook
+
 ## Results
 - How is the district summary affected?
 <img width="1015" alt="District Summary" src="https://user-images.githubusercontent.com/77806210/194192008-7bc60ab9-7d01-40b0-a657-1a224a9252b9.png">
